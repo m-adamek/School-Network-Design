@@ -29,7 +29,7 @@ Projekt obejmuje:
 
 ## Architektura
 
-![Network Diagram](images/network-overview.png)
+![Network Diagram](png/projekt-sieci.png)
 
 Sieć została podzielona na logiczne segmenty:
 
@@ -73,7 +73,3 @@ Sieć została podzielona na logiczne segmenty:
 
 Pełny raport projektu znajduje się w katalogu `docs`.
 
-## Autorzy
-
-Miłosz Adamek  
-Projekt wykonany w ramach przedmiotu Bezpieczeństwo Systemów Informatycznych.
